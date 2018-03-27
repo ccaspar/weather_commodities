@@ -1,0 +1,12 @@
+﻿column,start,end
+USAF,0,6
+WBAN,7,12
+Station Name,13,42
+CTRY,43,45
+ST,48,50
+Call,51,55
+Lat,57,64
+Lon,65,73
+Elev(m),74,81
+Begin,82,90
+End,91,99
