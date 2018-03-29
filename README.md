@@ -11,7 +11,7 @@ The goal of this study is to examine the effect of weather on agricultural commo
 
 
 ## Data
-Two main datasets were used. Each dataset consists of daily values, but I will be grouping individual observations into long time frames.
+Two main datasets were used. Each dataset consists of daily values, but I will be grouping individual observations into longer time frames.
  - First is historical price data for corn, cotton, and wheat. This data is a daily price for every business day dating back to the 60s. Data was retreived from http://www.macrotrends.net/charts/commodities
  - Second is weather data from the National Oceanic and Atmospheric Administration(NOAA). The data set is the global summary of the day(GSOD). This provides data on a number of daily metrics such as temperature, humidity, and wind, for numerous locations across the globe. For this data set, I will only use data from the US, and given the time, only for crop growing regions.
 
