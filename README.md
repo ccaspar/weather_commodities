@@ -29,8 +29,5 @@ Python <br>
 Pandas <br>
 SKLearn <br>
 Feature engineering <br>
-TensorFlow <br>
-Keras <br>
-Neural Networks <br>
-Random Forest <br>
-Logistic Regression <br>
+Time series decomposition <br>
+Time series modeling <br>
